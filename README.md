@@ -6,7 +6,7 @@
 
 ### Passo 1: Clonar o Repositório
 ```bash
-git clone https://github.com/ZapinhaCode/agenda-ferias.git
+git clone https://github.com/ZapinhaCode/autenticador.git
 cd agenda-ferias
 ```
 
