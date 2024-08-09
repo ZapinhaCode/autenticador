@@ -7,7 +7,7 @@
 ### Passo 1: Clonar o Repositório
 ```bash
 git clone https://github.com/ZapinhaCode/autenticador.git
-cd agenda-ferias
+cd autenticador
 ```
 
 ### Passo 2: Rodar as dependências do projeto
